@@ -57,5 +57,5 @@ pyinstaller --onefile --icon=icon.ico "1000-7 v3.py"
 
 ## Лицензия
 
-MIT License © Ваше имя
+MIT License © C5807
 ```
