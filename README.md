@@ -15,7 +15,7 @@
 
 1. Клонируйте репозиторий:
     ```bash
-    git clone https://github.com/yourusername/1000-7-spammer.git
+    git clone https://github.com/yourusername/1000-7.git
     cd 1000-7-spammer
     ```
 
